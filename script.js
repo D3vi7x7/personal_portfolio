@@ -100,8 +100,7 @@ gsap.from("#page5 h1",{
     trigger:"#page5",
     start:"top 50%",
     end:"top 0%",
-    scrub:2,
-    markers:true
+    scrub:2
   }
 })
 
